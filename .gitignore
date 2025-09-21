@@ -14,10 +14,10 @@ target/
 .sts4-cache
 *.yml
 *.log
-/htmlReport
 ### IntelliJ IDEA ###
 .idea
 *.iws
+/htmlReport
 *.iml
 *.ipr
 
